@@ -8,6 +8,5 @@ def count_xmovani(text):
 
 input = input("Enter some text: ")
 
-# ფუნქციის გამოძახება და პასუხის ბეჭდვა
 result = count_xmovani(input)
 print(f"The number of vowels is: {result}")
